@@ -117,4 +117,4 @@ client.distube
 // )
 // .on("searchDone", () => {})
 
-client.login('ODQ5Mjk2NzEwNzY0OTg2NDU4.GYrJte.dotAMHgrASV9aDiRhGabrD2zUgcSre90fsnctU')
+client.login('')
